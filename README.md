@@ -30,10 +30,10 @@ Aplicar diferentes modelos de regressão para prever os preços das residências
 
 ## 🧠 Modelos utilizados
 
-- 🔹 Regressão Linear Simples
-- 🔹 Regressão Linear Múltipla
-- 🔹 Árvore de Decisão
-- 🔹 Random Forest Regressor
+- Regressão Linear Simples
+- Regressão Linear Múltipla
+- Árvore de Decisão
+- Random Forest Regressor
 
 ---
 
